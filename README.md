@@ -1,2 +1,4 @@
 # satSolver
-parser, tokenizer, using the miniSAT
+parser, tokenizer, 
+Tseitin transformer 
+calling the miniSAT
